@@ -1,0 +1,3 @@
+The Catalogue service is a module of the e-commerce micro-services application that let users browse existing products, inspect their features and discuss them by adding comments. Finding specific products is made easier thanks to the support provided by filtering and sorting operations.
+
+This is a dummy implementation of the Catalogue Service using Express.js web application framework for Node.js, relying on MongoDB as a persistence layer and GraphQL as a query language.
